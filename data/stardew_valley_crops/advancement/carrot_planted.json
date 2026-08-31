@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "planted_carrot": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:carrots"
+      }
+    }
+  },
+  "rewards": {
+    "function": "stardew_valley_crops:on_carrot_planted"
+  }
+}

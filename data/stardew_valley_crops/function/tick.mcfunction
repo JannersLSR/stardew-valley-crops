@@ -1,0 +1,3 @@
+function stardew_valley_crops:system2_growth
+function stardew_valley_crops:system3_harvest
+function stardew_valley_crops:system4_bush_state
